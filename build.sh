@@ -1,0 +1,1 @@
+docker build -t golang-docker-template:latest --target bin .
