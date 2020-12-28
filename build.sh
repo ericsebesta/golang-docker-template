@@ -1,1 +1,1 @@
-docker build -t golang-docker-template:latest --target bin .
+docker build -t golang-docker-template:prod --target prod .

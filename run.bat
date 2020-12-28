@@ -1,2 +1,2 @@
-docker container rm -f golang-docker-template
-docker run --name golang-docker-template golang-docker-template:latest 
+docker container rm -f golang-docker-template-prod
+docker run --name golang-docker-template-prod golang-docker-template:prod
